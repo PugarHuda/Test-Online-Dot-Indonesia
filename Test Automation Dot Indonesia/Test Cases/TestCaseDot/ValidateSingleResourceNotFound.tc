@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidateSingleResourceNotFound</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5e297877-5cee-4095-83b4-18cdbdd69ddd</testCaseGuid>
+</TestCaseEntity>
